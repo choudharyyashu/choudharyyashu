@@ -26,9 +26,6 @@
   <a href="https://www.linkedin.com/in/jagmohan-rai1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Yashwant%20Choudhary-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/jagmohan123" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-jagmohan123-181717?style=for-the-badge&logo=github" />
-  </a>
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
