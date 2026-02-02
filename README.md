@@ -29,7 +29,6 @@
   <a href="https://github.com/jagmohan123" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-jagmohan123-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:jagmohanrai082@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
